@@ -12,13 +12,12 @@ _🦌 网页小游戏 🥛_
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+小游戏：Fucking Influencer
 
-[鹿乃b站](https://space.bilibili.com/316381099)
+[youtube](https://space.bilibili.com/316381099)
 |
-[线上版本](https://xingye.me/game/eatkano/index.php)
-|
-[Github Pages](https://arcxingye.github.io/EatKano/index.html)
+[线上版本](https://fucking.silkandpepper.com)
+
 
 ## 可选功能
 
